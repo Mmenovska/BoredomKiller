@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BoredomKiller</string>
+    <string name="not_today">NOT today!</string>
+    <string name="link">Link:</string>
+    <string name="price">Price:</string>
+    <string name="participants">Participants:</string>
+    <string name="type">Type:</string>
+    <string name="accessibility">Accessibility:</string>
+    <string name="activity">Activity:</string>
+</resources>
